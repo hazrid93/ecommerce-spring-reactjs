@@ -1,0 +1,14 @@
+version: '2'
+services:
+  perfume:
+    image: postgres:12.3
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_HOST_AUTH_METHOD=trust
+    ports:
+      - 5434:5432
+    volumes:
+      - E:/personal-code/ecommerce-spring-reactjs:/myapp
+volumes:
+  myapp: 
