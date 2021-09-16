@@ -5,8 +5,7 @@
 
 E-commerce project developed using Spring Boot and React.js.<br>
 
-#### An actual version of build is deployed on AWS:
-http://perfumesweb.tk <br>
+#### Credential
 Login: admin@gmail.com <br> 
 Password: admin
 
@@ -49,8 +48,7 @@ Password: admin
 
 ## Swagger Documentation
 
-http://ec2-3-122-228-86.eu-central-1.compute.amazonaws.com:8080/swagger-ui.html <br/>
-Or show local: <br/>
+local: <br/>
 http://localhost:8080/swagger-ui.html
 
 ## Screenshots
